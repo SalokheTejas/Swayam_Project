@@ -1,1 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.env
+
+# Deep Learning Models
+*.h5
+*.pt
+*.pth
+*.ckpt
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
 
